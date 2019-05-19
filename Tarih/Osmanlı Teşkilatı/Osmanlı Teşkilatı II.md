@@ -87,63 +87,63 @@ Acemi Ocağı, Yeniçeri Ocağı, Cebeci Ocağı(Silah, erzak sağlar), Topçu A
 Tımarlı Sipahiler ve yardımcı kuvvetler olarak ayrılır. Tımarlı Sipahiler atlı ihtiyacının giderilmesini sağlar.
 
 ## Terimler
-- Müstensih bir yapıtın el yazısıyla kopyasını hazırlayan kişi
-- İstinsah bir yazıya bakarak kopyasını çıkarma
-- Müverrih tarihçi kişi
-- Mukatebe kölelerin sahipleriyle yaptıkları anlaşma
-- Müzehhip süsleme sanatı
-- Mücellid ciltciler
-- Cülus tahta çıkma
-- Hal Etme tahttan inme
-- Tuğra ferman, berat, mensur gibi yazılarda, paralarda padişahların alametleri için kullanılan işaretler
-- Hattı Hümayun padişah adına divanı hümayunda yazılan ve padişahın kendi el yazısının olduğu emirler
-- Berat padişahın iznini taşıyan yazılar
-- Divanı Hümayun yasama, yürütme, yargının görüldüğü yer
-- Babı Ali yüce kapı anlamında padişah ve sadrazam sarayı devlet ve hükümet dairesi manasında kullanılmıştır
-- Babı Hümayun padişah kapısı ve sarayı
-- Babı Asafi sadrazam kapısı
-- Babı Meşihat şeyhül islam dairesi
-- Babı Seraskeri seraskerlik dairesi
-- Babı Defteri defterdarlık dairesi
-- Sadaret Kethüdası divanı hümayun kaldırılana dek iç işleri bakanlığı
-- Reyisül Kitap 17.yy'a kadar divan yazışmalarında görevliye verilen ad
-- Çavuş Başı adalet ve polis teşkilatıyla yakından alakalı kişi
-- Beylikçi padişah divanı kaleminin başı
-- Teşrifatçı resmi günlerde, tören ve toplantılarda çağıranları karşılayan kimse
-- Tahvil Kalemi yüksek dereceli kişilerin özlük işleriyle ferman ve beratları düzenler
-- Beylik Kalemi sadrazam buyruklarının ve fermanlarının yazıldığı yer
-- Ruus Kalemi düvanı hümayunun en önemli kalemlerinden olan maaş alan memurların tayin müamelelerinin yapıldığı yer
-- Harem özel yaşam alanı
-- Enderun eğitim yapılan bölüm
-- Birun hizmet ve koruma bölümü ve büyük törenlerin yapıldığı yer
-- Rikaptar padişah ata binerken üzengisini tutan görevli
-- Şuhadar padişah ve vezirlerin saray dışı işlerini yapan kişi
-- Budülbent Ağası sarayda sarıklar ve tülbentlerden sorumlu iç oğlanların başı
-- İbrikdar ibrikle su döken, havlu tutan kişi
-- Kiler Koğuşu padişahın sofrasından sorumlu bölüm
-- Muhassıl vergileri toplayan görevli
-- Mutasarrıf tanzimattan sonra sancak yöneticisi
-- Mütesellim vali adına ve mutasarıflar adına vergi toplayan kişi
-- Dizdar kale muhafızı ve idaresinden sorumlu kişi
-- Derbentçi geçit yerlerinin muhafazasını yapan kişi
-- Yasakçı iç güvenliği sağlayan silahlı muhafız
-- Ayanlar halk ve devlet arasındaki ilişkileri düzenleyen kişi
-- Kassam terekedeki miras defterlerini kontrol eden kişi
-- Naib vali kadı gibi devlet ricalinin temsilcisi
-- Liva diğer adı sancak, iller ilçeler arasından yer alan yönetim bölümü
-- Muhzır şeriat mahkemelerinde muaşir görevi gören kişi
-- Yürük rumeli topraklarına yerleştirilen, savaş zamanı geri hizmette kullanılan tımarlı asker
-- Meşferet Meclisi divanı hümayunda tanzimat dönemi meclislerine geçişi sağlayan ara kurum
-- Darusade Ağası harem dairesinin çalışanları ve ihtiyaçlarıyla ilgilenir
-- Beylerbeyi taşra teşkilatında en büyük idari birimin askeri ve idari amiri
-- Sancak askeri ve idari amir
-- Subaşı şehrin güvenliğini sağlayan kişi
-- Kethüda devletle halk arasında irtibatı sağlayan kişi
-- Voyvoda yüksek vergi birimlerini toplayan kişiler Eflak, Boğdan beyleri
-- Cebelü tımarlıların çalıştırdığı askerlerdir
-- Mevacip ekmekli yeniçerilerin maaşları
-- Saibi Arz tımar sahipleri
-- Taifei Bektaşiye yeniçerilere denir
-- Bektaşi Ocağı yeniçeri ocağı
-- Bedergah kapıya çıkma
-- Ulufe acemi ocağının maaşları
+<font color="black">- Müstensih </font>bir yapıtın el yazısıyla kopyasını hazırlayan kişi
+<font color="black">- İstinsah </font>bir yazıya bakarak kopyasını çıkarma
+<font color="black">- Müverrih </font>tarihçi kişi
+<font color="black">- Mukatebe </font>kölelerin sahipleriyle yaptıkları anlaşma
+<font color="black">- Müzehhip </font>süsleme sanatı
+<font color="black">- Mücellid </font>ciltciler
+<font color="black">- Cülus </font>tahta çıkma
+<font color="black">- Hal </font>Etme tahttan inme
+<font color="black">- Tuğra </font>ferman, berat, mensur gibi yazılarda, paralarda padişahların alametleri için kullanılan işaretler
+<font color="black">- Hattı </font>Hümayun padişah adına divanı hümayunda yazılan ve padişahın kendi el yazısının olduğu emirler
+<font color="black">- Berat </font>padişahın iznini taşıyan yazılar
+<font color="black">- Divanı </font>Hümayun yasama, yürütme, yargının görüldüğü yer
+<font color="black">- Babı </font>Ali yüce kapı anlamında padişah ve sadrazam sarayı devlet ve hükümet dairesi manasında kullanılmıştır
+<font color="black">- Babı </font>Hümayun padişah kapısı ve sarayı
+<font color="black">- Babı </font>Asafi sadrazam kapısı
+<font color="black">- Babı </font>Meşihat şeyhül islam dairesi
+<font color="black">- Babı </font>Seraskeri seraskerlik dairesi
+<font color="black">- Babı </font>Defteri defterdarlık dairesi
+<font color="black">- Sadaret </font>Kethüdası divanı hümayun kaldırılana dek iç işleri bakanlığı
+<font color="black">- Reyisül </font>Kitap 17.yy'a kadar divan yazışmalarında görevliye verilen ad
+<font color="black">- Çavuş </font>Başı adalet ve polis teşkilatıyla yakından alakalı kişi
+<font color="black">- Beylikçi </font>padişah divanı kaleminin başı
+<font color="black">- Teşrifatçı </font>resmi günlerde, tören ve toplantılarda çağıranları karşılayan kimse
+<font color="black">- Tahvil </font>Kalemi yüksek dereceli kişilerin özlük işleriyle ferman ve beratları düzenler
+<font color="black">- Beylik </font>Kalemi sadrazam buyruklarının ve fermanlarının yazıldığı yer
+<font color="black">- Ruus </font>Kalemi düvanı hümayunun en önemli kalemlerinden olan maaş alan memurların tayin müamelelerinin yapıldığı yer
+<font color="black">- Harem </font>özel yaşam alanı
+<font color="black">- Enderun </font>eğitim yapılan bölüm
+<font color="black">- Birun </font>hizmet ve koruma bölümü ve büyük törenlerin yapıldığı yer
+<font color="black">- Rikaptar </font>padişah ata binerken üzengisini tutan görevli
+<font color="black">- Şuhadar </font>padişah ve vezirlerin saray dışı işlerini yapan kişi
+<font color="black">- Budülbent </font>Ağası sarayda sarıklar ve tülbentlerden sorumlu iç oğlanların başı
+<font color="black">- İbrikdar </font>ibrikle su döken, havlu tutan kişi
+<font color="black">- Kiler </font>Koğuşu padişahın sofrasından sorumlu bölüm
+<font color="black">- Muhassıl </font>vergileri toplayan görevli
+<font color="black">- Mutasarrıf </font>tanzimattan sonra sancak yöneticisi
+<font color="black">- Mütesellim </font>vali adına ve mutasarıflar adına vergi toplayan kişi
+<font color="black">- Dizdar </font>kale muhafızı ve idaresinden sorumlu kişi
+<font color="black">- Derbentçi </font>geçit yerlerinin muhafazasını yapan kişi
+<font color="black">- Yasakçı </font>iç güvenliği sağlayan silahlı muhafız
+<font color="black">- Ayanlar </font>halk ve devlet arasındaki ilişkileri düzenleyen kişi
+<font color="black">- Kassam </font>terekedeki miras defterlerini kontrol eden kişi
+<font color="black">- Naib </font>vali kadı gibi devlet ricalinin temsilcisi
+<font color="black">- Liva </font>diğer adı sancak, iller ilçeler arasından yer alan yönetim bölümü
+<font color="black">- Muhzır </font>şeriat mahkemelerinde muaşir görevi gören kişi
+<font color="black">- Yürük </font>rumeli topraklarına yerleştirilen, savaş zamanı geri hizmette kullanılan tımarlı asker
+<font color="black">- Meşferet </font>Meclisi divanı hümayunda tanzimat dönemi meclislerine geçişi sağlayan ara kurum
+<font color="black">- Darusade </font>Ağası harem dairesinin çalışanları ve ihtiyaçlarıyla ilgilenir
+<font color="black">- Beylerbeyi </font>taşra teşkilatında en büyük idari birimin askeri ve idari amiri
+<font color="black">- Sancak </font>askeri ve idari amir
+<font color="black">- Subaşı </font>şehrin güvenliğini sağlayan kişi
+<font color="black">- Kethüda </font>devletle halk arasında irtibatı sağlayan kişi
+<font color="black">- Voyvoda </font>yüksek vergi birimlerini toplayan kişiler Eflak, Boğdan beyleri
+<font color="black">- Cebelü </font>tımarlıların çalıştırdığı askerlerdir
+<font color="black">- Mevacip </font>ekmekli yeniçerilerin maaşları
+<font color="black">- Saibi </font>Arz tımar sahipleri
+<font color="black">- Taifei </font>Bektaşiye yeniçerilere denir
+<font color="black">- Bektaşi </font>Ocağı yeniçeri ocağı
+<font color="black">- Bedergah </font>kapıya çıkma
+<font color="black">- Ulufe </font>acemi ocağının maaşları
