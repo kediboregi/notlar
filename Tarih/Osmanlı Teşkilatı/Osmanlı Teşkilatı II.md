@@ -1,36 +1,39 @@
-#### Taşra Teşkilatı
+## Taşra Teşkilatı
 
 ### Ehli Örf
 
-## Beylerbeyi
+#### Beylerbeyi
 Taşrada en büyük idari ve askeri amir
 
-## Sancak Beyleri
+#### Sancak Beyleri
 Sancak Amiri
 
-## Su Başı
+#### Su Başı
 Şehrin güvenliğini sağlar
 
-## Muassır
+#### Muassır
 Vergi Toplayan Memur
 
-## Mütessellim
+#### Mütessellim
 Vergi tahsildarı
 
-## Mutasarrıf
+#### Mutasarrıf
 Sancak Yöneticisi
 
-## Şehir Kethüdası
+#### Şehir Kethüdası
 Halk ile devlet arasındaki irtibatı sağlar
 
-## Dizdar
+#### Dizdar
 Kale komutanı
 
-## Kapu Kethüdası
+#### Kapu Kethüdası
 Voyvoda, yüksek vergi, devlet ile ilgili işlere bakar
 
-## Derbentçi
+#### Derbentçi
 Geçiş yerlerinin muhafazasını sağlar
 
-## Yasakçı
+#### Yasakçı
 İç güvenlik
+
+#### Ayan
+Devlet ile halk arasındaki işleri düzenler
