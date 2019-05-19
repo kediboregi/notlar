@@ -37,3 +37,22 @@ Geçiş yerlerinin muhafazasını sağlar
 
 #### Ayan
 Devlet ile halk arasındaki işleri düzenler
+
+### Ehli Şer
+
+#### Kadı
+Hukuki davaları karara bağlar
+
+#### Naip
+Kadının vekili, valinin fıkıh vekili
+
+#### Müftüler
+Fetva veren
+
+#### Kassam
+Tereke defterlerini tutar
+
+#### Mütevelli
+Vakıf yöneticisi
+
+Eyalet > Sancak > Kaza > Naliye > Köy
