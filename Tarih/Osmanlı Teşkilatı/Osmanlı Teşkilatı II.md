@@ -76,3 +76,12 @@ Bu eyaletler tımar sisteminin uygulandığı ve yıllık vergi gelirlerini tım
 Tımarda sınıflar işlerine ve sayı katılımlarına göre Has ve Zeamet şeklinde ayrılır
 
 ## Askeri Teşkilatı
+Devlete asker yetiştiren dirlik sahipleri vergiden muaftır.
+
+### Kara Kuvvetleri
+#### Kapıkulu Ocakları
+##### Piyade
+Acemi Ocağı, Yeniçeri Ocağı, Cebeci Ocağı(Silah, erzak sağlar), Topçu Arabacıları Ocağı, Topçu Ocağı, Humbaracı Ocağı, Lağımcı Ocağı
+
+#### Eyalet Askerleri
+Tımarlı Sipahiler ve yardımcı kuvvetler olarak ayrılır. Tımarlı Sipahiler atlı ihtiyacının giderilmesini sağlar.
