@@ -2,57 +2,77 @@
 Eyalet > Sancak > Kaza > Naliye > Köy
 Selçuklu etkisi var, Eyaletler sınırlar ile artıyor. I.Murad, Lala Şahin Paşa'yı Rumeli Beylerbeyi olarak görevlendirdi.
 
-### Ehli Örf
+### Makamlar
 
-#### Beylerbeyi
+#### Ehli Örf
+
+##### Beylerbeyi
 Taşrada en büyük idari ve askeri amir
 
-#### Sancak Beyleri
+##### Sancak Beyleri
 Sancak Amiri
 
-#### Su Başı
+##### Su Başı
 Şehrin güvenliğini sağlar
 
-#### Muassır
+##### Muassır
 Vergi Toplayan Memur
 
-#### Mütessellim
+##### Mütessellim
 Vergi tahsildarı
 
-#### Mutasarrıf
+##### Mutasarrıf
 Sancak Yöneticisi
 
-#### Şehir Kethüdası
+##### Şehir Kethüdası
 Halk ile devlet arasındaki irtibatı sağlar
 
-#### Dizdar
+##### Dizdar
 Kale komutanı
 
-#### Kapu Kethüdası
+##### Kapu Kethüdası
 Voyvoda, yüksek vergi, devlet ile ilgili işlere bakar
 
-#### Derbentçi
+##### Derbentçi
 Geçiş yerlerinin muhafazasını sağlar
 
-#### Yasakçı
+##### Yasakçı
 İç güvenlik
 
-#### Ayan
+##### Ayan
 Devlet ile halk arasındaki işleri düzenler
 
-### Ehli Şer
+#### Ehli Şer
 
-#### Kadı
+##### Kadı
 Hukuki davaları karara bağlar
 
-#### Naip
+##### Naip
 Kadının vekili, valinin fıkıh vekili
 
-#### Müftüler
+##### Müftüler
 Fetva veren
 
-#### Kassam
+##### Kassam
 Tereke defterlerini tutar
 
-#### Mütevelli
+##### Mütevelli
 Vakıf yöneticisi
+
+### Eyalet Divanı
+Beylerbeyi(Emir-ül Ümara)
+Mal Defterdarı
+Tımar Defterdarı
+Katipler
+Çavuşlar
+Muhzır
+
+#### Salyaneli Eyaletler
+Yıllık vergi ve üretimi devlet adına toplanır. Doğrudan hazineye aktarılır.
+Kuzey Afrika, Yemen, Bağdat, Güney Arabistan
+
+#### Salyanesiz Eyaletler
+Bu eyaletler tımar sisteminin uygulandığı ve yıllık vergi gelirlerini tımar olarak veren eyaletler
+Tımarda sınıflar işlerine ve sayı katılımlarına göre Has ve Zeamet şeklinde ayrılır
+
+## Askeri Teşkilatı
