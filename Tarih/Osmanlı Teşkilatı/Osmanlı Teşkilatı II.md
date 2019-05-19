@@ -1,4 +1,6 @@
 ## Taşra Teşkilatı
+Eyalet > Sancak > Kaza > Naliye > Köy
+Selçuklu etkisi var, Eyaletler sınırlar ile artıyor. I.Murad, Lala Şahin Paşa'yı Rumeli Beylerbeyi olarak görevlendirdi.
 
 ### Ehli Örf
 
@@ -54,5 +56,3 @@ Tereke defterlerini tutar
 
 #### Mütevelli
 Vakıf yöneticisi
-
-Eyalet > Sancak > Kaza > Naliye > Köy
